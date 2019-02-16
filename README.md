@@ -12,3 +12,5 @@ This repository collects supplementary material to study reinforcement learning.
 - Introduction to Reinforcement Learning: http://incompleteideas.net/book/bookdraft2017nov5.pdf
 
 - Awesome Reinforcement Learning repository: https://github.com/aikorea/awesome-rl 
+
+- OpenAI spinning up: http://spinningup.openai.com/en/latest/index.html
